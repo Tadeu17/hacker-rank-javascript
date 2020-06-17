@@ -21,4 +21,4 @@ function repeatedString(s, n) {
 }
 
 console.log(repeatedString('aba', 10), 'should be 7')
-console.log(repeatedString('a', 1000000000000), 'should be 7')
+console.log(repeatedString('a', 1000000000000), 'should be 1000000000000')
